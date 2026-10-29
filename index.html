@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TORQ PYQ Viewer</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 16px; max-width: 900px; margin-inline: auto; line-height: 1.45; }
+  h1 { font-size: 1.3rem; }
+  select, button { font-size: 1rem; padding: 6px; margin: 4px 0; }
+  .q { border-top: 1px solid #ccc; padding: 12px 0; }
+  .meta { color: #555; font-size: 0.85rem; }
+  .opt { margin: 2px 0 2px 16px; }
+  .ans { color: #0a7a2f; font-weight: 600; }
+  .sol { background: #f5f5f5; padding: 8px; border-radius: 6px; margin-top: 8px; }
+  .method { margin: 6px 0; }
+  .tag { display: inline-block; background: #ddd; border-radius: 4px; padding: 0 6px; margin-right: 4px; font-size: 0.8rem; }
+  .err { color: #b00020; }
+  img { max-width: 100%; }
+</style>
+</head>
+<body>
+<h1>TORQ PYQ Viewer</h1>
+<label>Paper: <select id="paper"></select></label>
+<div id="status" class="meta"></div>
+<div id="content"></div>
+
+<script>
+// Paths are relative to this file. They work when the site is served over http(s),
+// including GitHub Pages. Opening the file directly (file://) blocks fetch.
+const INDEX_PATH = "data/index.json";
+const SOLUTIONS_DIR = "data/solutions/";
+
+let solutions = {};
+
+function setStatus(msg, isErr) {
+  const s = document.getElementById("status");
+  s.textContent = msg;
+  s.className = isErr ? "err" : "meta";
+}
+
+function renderMath() {
+  if (window.renderMathInElement) {
+    renderMathInElement(document.getElementById("content"), {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  }
+}
+
+async function loadIndex() {
+  const res = await fetch(INDEX_PATH);
+  if (!res.ok) throw new Error(INDEX_PATH + " not found (HTTP " + res.status + ")");
+  const idx = await res.json();
+  const sel = document.getElementById("paper");
+  for (const p of idx.papers) {
+    const o = document.createElement("option");
+    o.value = p.file;
+    o.textContent = `${p.date} Shift ${p.shift} (${p.question_count} Qs)`;
+    o.dataset.id = p.id;
+    sel.appendChild(o);
+  }
+  sel.addEventListener("change", () => loadPaper(sel.value, sel.selectedOptions[0].dataset.id));
+  if (idx.papers.length) loadPaper(idx.papers[0].file, idx.papers[0].id);
+}
+
+async function loadPaper(file, paperId) {
+  const content = document.getElementById("content");
+  content.innerHTML = "";
+  setStatus("Loading " + file + " ...");
+  try {
+    const res = await fetch(file);
+    if (!res.ok) throw new Error(file + " not found (HTTP " + res.status + ")");
+    const questions = await res.json();
+
+    // Solutions are optional. A missing solution file is not an error.
+    solutions = {};
+    try {
+      const sres = await fetch(SOLUTIONS_DIR + file.split("/").pop());
+      if (sres.ok) {
+        const arr = await sres.json();
+        for (const s of arr) solutions[s.question_id] = s;
+      }
+    } catch (e) { /* no solution file yet */ }
+
+    setStatus(`${questions.length} questions. Solutions loaded: ${Object.keys(solutions).length}.`);
+    for (const q of questions) content.appendChild(renderQuestion(q));
+    renderMath();
+  } catch (e) {
+    setStatus(e.message + ". Check the path and that the site is served over http(s).", true);
+  }
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+
+function renderQuestion(q) {
+  const box = el("div", "q");
+  box.appendChild(el("div", "meta", `Q${q.question_number} · ${q.subject} · ${q.chapter} · ${q.difficulty}`));
+  const body = el("div");
+  body.innerHTML = "";
+  body.appendChild(el("div", null, q.text));
+  if (q.image) {
+    const img = el("img");
+    img.src = q.image;
+    img.alt = `Figure for Q${q.question_number}`;
+    img.onerror = () => { img.replaceWith(el("div", "meta", "Figure not yet available: " + q.image)); };
+    body.appendChild(img);
+  }
+  for (const o of q.options) {
+    const row = el("div", "opt", `(${o.key}) ${o.text}`);
+    if (o.image) {
+      const oi = el("img"); oi.src = o.image; oi.alt = `Option ${o.key}`;
+      oi.onerror = () => { oi.replaceWith(el("div", "meta", "Option figure not yet available: " + o.image)); };
+      row.appendChild(oi);
+    }
+    body.appendChild(row);
+  }
+  box.appendChild(body);
+  box.appendChild(el("div", "ans", "Answer: " + q.correct_answer.join(", ")));
+  box.appendChild(el("div", "meta", `+${q.marks_correct} / ${q.marks_incorrect} / ${q.marks_unattempted}`));
+
+  const s = solutions[q.id];
+  if (s) {
+    const sol = el("div", "sol");
+    sol.appendChild(el("div", "meta", "Solution source: worked_by_claude"));
+    for (const m of s.methods) {
+      const md = el("div", "method");
+      md.appendChild(el("span", "tag", m.tag));
+      md.appendChild(el("strong", null, m.name + " "));
+      md.appendChild(el("div", null, m.approach));
+      const ol = el("ol");
+      for (const step of m.steps) ol.appendChild(el("li", null, step));
+      md.appendChild(ol);
+      sol.appendChild(md);
+    }
+    const tags = Object.entries(s.meta_tags || {}).map(([k, v]) => `${k}: ${v}`).join(" · ");
+    sol.appendChild(el("div", "meta", tags));
+    if (s.flags && s.flags.length) sol.appendChild(el("div", "err", "Flags: " + s.flags.join("; ")));
+    box.appendChild(sol);
+  }
+  return box;
+}
+
+loadIndex().catch(e => setStatus(e.message + ". Check data/index.json and serve the site over http(s).", true));
+</script>
+</body>
+</html>
