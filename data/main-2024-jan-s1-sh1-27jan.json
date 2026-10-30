@@ -1099,23 +1099,27 @@
     "options": [
       {
         "key": "1",
-        "text": "[circuit diagram — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-1.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-1.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "2",
-        "text": "[circuit diagram — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-2.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-2.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "3",
-        "text": "[circuit diagram — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-3.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-3.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "4",
-        "text": "[circuit diagram — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-4.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-4.webp",
+        "image_display_width_px": 100
       }
     ],
     "correct_answer": [
@@ -1434,7 +1438,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 110
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-27",
@@ -1475,7 +1480,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 100
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-28",
@@ -1555,7 +1561,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 100
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-30",
@@ -1799,23 +1806,27 @@
     "options": [
       {
         "key": "1",
-        "text": "Aniline (NH$_2$ on benzene)",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-1.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-1.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "2",
-        "text": "Diphenylamine",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-2.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-2.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "3",
-        "text": "Pyrrole",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-3.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-3.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "4",
-        "text": "Pyrrolidine",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-4.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-4.webp",
+        "image_display_width_px": 100
       }
     ],
     "correct_answer": [
@@ -2081,7 +2092,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 100
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-39",
@@ -2106,23 +2118,27 @@
     "options": [
       {
         "key": "1",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-1.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-1.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "2",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-2.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-2.webp",
+        "image_display_width_px": 129
       },
       {
         "key": "3",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-3.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-3.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "4",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-4.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-4.webp",
+        "image_display_width_px": 114
       }
     ],
     "correct_answer": [
@@ -2167,7 +2183,7 @@
     "question_type": "single",
     "difficulty": "medium",
     "difficulty_reason": "Rated from the stem: electron-withdrawing and donating effects on phenol acidity.",
-    "text": "The ascending order of acidity of $-$OH group in the following compounds is : (A) Bu $-$ OH; (B), (C), (D), (E) [structures — see PDF]. Choose the correct answer from the options given below :",
+    "text": "The ascending order of acidity of $-$OH group in the following compounds is : (A) Bu $-$ OH; (B), (C), (D), (E) [structures —]. Choose the correct answer from the options given below :",
     "options": [
       {
         "key": "1",
@@ -2208,7 +2224,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 100
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-41",
@@ -2233,23 +2250,27 @@
     "options": [
       {
         "key": "1",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-1.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-1.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "2",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-2.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-2.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "3",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-3.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-3.webp",
+        "image_display_width_px": 100
       },
       {
         "key": "4",
-        "text": "[structure — see PDF]",
-        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-4.webp"
+        "text": "",
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-4.webp",
+        "image_display_width_px": 100
       }
     ],
     "correct_answer": [
@@ -3048,7 +3069,8 @@
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF text layer; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
+    "verified_against": "text layer and printed answer key; second-pass check pending",
+    "image_display_width_px": 100
   },
   {
     "id": "main-2024-jan-s1-sh1-27jan-p-57",
