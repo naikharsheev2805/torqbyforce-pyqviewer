@@ -286,8 +286,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-05.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-05.webp"
+    ],
     "tags": [
       "vertical circle",
       "energy"
@@ -701,8 +703,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-12.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-12.webp"
+    ],
     "tags": [
       "circuits"
     ],
@@ -1149,22 +1153,22 @@
       {
         "key": "1",
         "text": "Truth table (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Truth table (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Truth table (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Truth table (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1175,8 +1179,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-20.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-4.webp"
+    ],
     "tags": [
       "logic gates"
     ],
@@ -1365,8 +1375,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-25.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-25.webp"
+    ],
     "tags": [
       "circuits"
     ],
@@ -1479,8 +1491,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-28.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-28.webp"
+    ],
     "tags": [
       "capacitor",
       "circuit"
@@ -1616,8 +1630,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-31.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-31.webp"
+    ],
     "tags": [
       "spectral series"
     ],
@@ -1793,8 +1809,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-34.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-34.webp"
+    ],
     "tags": [
       "iupac"
     ],
@@ -1852,8 +1870,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-35.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-35.webp"
+    ],
     "tags": [
       "acidity"
     ],
@@ -1911,8 +1931,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-36.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-36.webp"
+    ],
     "tags": [
       "acidity",
       "pka"
@@ -1945,22 +1967,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1972,7 +1994,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-4.webp"
+    ],
     "tags": [
       "geometrical isomerism"
     ],
@@ -2444,8 +2471,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-45.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-45.webp"
+    ],
     "tags": [
       "reagents"
     ],
@@ -2477,17 +2506,17 @@
       {
         "key": "1",
         "text": "$\\mathrm{CH_3CH_2CH_2NH_2}\\xrightarrow{\\mathrm{HNO_2}}\\mathrm{CH_3CH_2OH}+\\mathrm{N_2}+\\mathrm{HCl}$ (reaction (1))",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Alkene + HI addition product (reaction (2)) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Cyclohexene + Br2 product (reaction (3)) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-3.webp"
       },
       {
         "key": "4",
@@ -2504,7 +2533,11 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-3.webp"
+    ],
     "tags": [
       "organic reactions"
     ],
@@ -2536,22 +2569,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2562,8 +2595,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-47.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-4.webp"
+    ],
     "tags": [
       "sandmeyer"
     ],
@@ -2739,8 +2778,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-50.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-29jan-p-50.webp"
+    ],
     "tags": [
       "biomolecules",
       "matching"

@@ -168,8 +168,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-03.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-03.webp"
+    ],
     "tags": [
       "pulley",
       "incline"
@@ -228,8 +230,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-04.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-04.webp"
+    ],
     "tags": [
       "energy conservation"
     ],
@@ -523,8 +527,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-09.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-09.webp"
+    ],
     "tags": [
       "heat capacity"
     ],
@@ -641,8 +647,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-11.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-11.webp"
+    ],
     "tags": [
       "potentiometer"
     ],
@@ -759,8 +767,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-13.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-13.webp"
+    ],
     "tags": [
       "magnetic field",
       "loops"
@@ -878,8 +888,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-15.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-15.webp"
+    ],
     "tags": [
       "transformer"
     ],
@@ -1173,8 +1185,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-20.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-20.webp"
+    ],
     "tags": [
       "zener diode"
     ],
@@ -1249,8 +1263,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-22.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-22.webp"
+    ],
     "tags": [
       "rotational motion",
       "collision"
@@ -1288,8 +1304,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-23.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-23.webp"
+    ],
     "tags": [
       "elasticity",
       "pulleys"
@@ -1404,8 +1422,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-26.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-26.webp"
+    ],
     "tags": [
       "cells"
     ],
@@ -1767,22 +1787,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1794,7 +1814,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-34-opt-4.webp"
+    ],
     "tags": [
       "structure"
     ],
@@ -1826,22 +1851,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1853,7 +1878,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-35-opt-4.webp"
+    ],
     "tags": [
       "vinylic halide"
     ],
@@ -1944,22 +1974,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1971,7 +2001,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-37-opt-4.webp"
+    ],
     "tags": [
       "stability"
     ],
@@ -2029,8 +2064,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-38.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-38.webp"
+    ],
     "tags": [
       "alkynes",
       "alkylation"
@@ -2089,8 +2126,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-39.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-39.webp"
+    ],
     "tags": [
       "oxidation"
     ],
@@ -2445,8 +2484,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-45.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-45.webp"
+    ],
     "tags": [
       "named reactions"
     ],
@@ -2478,22 +2519,22 @@
       {
         "key": "1",
         "text": "A $=\\mathrm{HNO_3/H_2SO_4}$; B = phenol",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-1.webp"
       },
       {
         "key": "2",
         "text": "A $=\\mathrm{NaNO_2}$ + HCl, 0–5°C; B = aniline",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-2.webp"
       },
       {
         "key": "3",
         "text": "A $=\\mathrm{NaNO_2}$ + HCl, 0–5°C; B = 1-naphthol",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-3.webp"
       },
       {
         "key": "4",
         "text": "A $=\\mathrm{NaNO_2}$ + HCl, 0–5°C; B = naphthol (structure)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2504,8 +2545,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-46.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-46.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-46-opt-4.webp"
+    ],
     "tags": [
       "diazotisation",
       "azo dye"
@@ -2538,22 +2585,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2564,8 +2611,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-47.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-47.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-47-opt-4.webp"
+    ],
     "tags": [
       "multistep"
     ],
@@ -2894,8 +2947,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-30jan-p-54.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-30jan-p-54.webp"
+    ],
     "tags": [
       "cyclic process",
       "pv diagram"

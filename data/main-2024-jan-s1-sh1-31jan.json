@@ -200,22 +200,22 @@
       {
         "key": "1",
         "text": "Graph (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Graph (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Graph (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Graph (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -227,7 +227,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-04-opt-4.webp"
+    ],
     "tags": [
       "viscous drag"
     ],
@@ -285,8 +290,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-05.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-05.webp"
+    ],
     "tags": [
       "inclined plane",
       "friction"
@@ -583,8 +590,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-10.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-10.webp"
+    ],
     "tags": [
       "isobaric process"
     ],
@@ -819,8 +828,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-14.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-14.webp"
+    ],
     "tags": [
       "magnetic force"
     ],
@@ -1173,8 +1184,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-20.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-20.webp"
+    ],
     "tags": [
       "logic gates"
     ],
@@ -1404,8 +1417,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-26.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-26.webp"
+    ],
     "tags": [
       "resistor network"
     ],
@@ -3045,8 +3060,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-58.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-58.webp"
+    ],
     "tags": [
       "substitution",
       "elimination"
@@ -3084,8 +3101,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-31jan-p-59.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-31jan-p-59.webp"
+    ],
     "tags": [
       "grignard"
     ],

@@ -167,8 +167,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-03.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-03.webp"
+    ],
     "tags": [
       "tension",
       "pulling"
@@ -287,8 +289,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-05.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-05.webp"
+    ],
     "tags": [
       "friction",
       "incline"
@@ -380,22 +384,22 @@
       {
         "key": "1",
         "text": "Graph (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Graph (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Graph (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Graph (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -407,7 +411,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-07-opt-4.webp"
+    ],
     "tags": [
       "phase change"
     ],
@@ -465,8 +474,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-08.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-08.webp"
+    ],
     "tags": [
       "adiabatic",
       "isothermal"
@@ -941,8 +952,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-16.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-16.webp"
+    ],
     "tags": [
       "photoelectric"
     ],
@@ -1119,8 +1132,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-19.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-19.webp"
+    ],
     "tags": [
       "diodes"
     ],
@@ -1559,8 +1574,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-30.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-30.webp"
+    ],
     "tags": [
       "lens"
     ],
@@ -1796,8 +1813,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-34.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-34.webp"
+    ],
     "tags": [
       "iupac"
     ],
@@ -1947,22 +1966,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1973,8 +1992,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-37.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-37.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-37-opt-4.webp"
+    ],
     "tags": [
       "hydroboration",
       "oxymercuration"
@@ -2600,7 +2625,7 @@
       {
         "key": "1",
         "text": "(1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-48-opt-1.webp"
       },
       {
         "key": "2",
@@ -2627,7 +2652,9 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-48-opt-1.webp"
+    ],
     "tags": [
       "reimer tiemann"
     ],
@@ -2659,22 +2686,22 @@
       {
         "key": "1",
         "text": "Product (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Product (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Product (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Product (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2686,7 +2713,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-49-opt-4.webp"
+    ],
     "tags": [
       "cannizzaro"
     ],
@@ -2718,22 +2750,22 @@
       {
         "key": "1",
         "text": "A = m-nitro aniline, B = phenol (see PDF)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-1.webp"
       },
       {
         "key": "2",
         "text": "A = aniline, B = phenol (see PDF)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-2.webp"
       },
       {
         "key": "3",
         "text": "A = m-nitrophenol, B = phenol (see PDF)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-3.webp"
       },
       {
         "key": "4",
         "text": "A = phenyl hydrazine, B = aniline (see PDF)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2744,8 +2776,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-50.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-50.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-50-opt-4.webp"
+    ],
     "tags": [
       "aromatic reactions"
     ],
@@ -2934,8 +2972,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-30jan-p-55.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-30jan-p-55.webp"
+    ],
     "tags": [
       "geometrical isomerism"
     ],

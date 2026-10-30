@@ -465,8 +465,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-08.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-08.webp"
+    ],
     "tags": [
       "work",
       "pv diagram"
@@ -643,8 +645,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-11.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-11.webp"
+    ],
     "tags": [
       "maxwell equations",
       "matching"
@@ -1179,8 +1183,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-20.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-20.webp"
+    ],
     "tags": [
       "zener diode"
     ],
@@ -1525,8 +1531,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-29.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-29.webp"
+    ],
     "tags": [
       "interference"
     ],
@@ -2130,22 +2138,22 @@
       {
         "key": "1",
         "text": "Structures (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structures (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structures (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structures (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2156,8 +2164,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-40.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-40.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-40-opt-4.webp"
+    ],
     "tags": [
       "free radical",
       "addition"
@@ -2190,22 +2204,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2216,8 +2230,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-41.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-41.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-41-opt-4.webp"
+    ],
     "tags": [
       "ether cleavage",
       "hbr"
@@ -2250,22 +2270,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2277,7 +2297,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-42-opt-4.webp"
+    ],
     "tags": [
       "electrophilic substitution",
       "arenium"
@@ -2310,22 +2335,22 @@
       {
         "key": "1",
         "text": "Structure (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Structure (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Structure (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Structure (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2336,8 +2361,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-43.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-43.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-43-opt-4.webp"
+    ],
     "tags": [
       "oxidation",
       "wolff kishner"
@@ -2943,8 +2974,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-29jan-p-55.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-29jan-p-55.webp"
+    ],
     "tags": [
       "ozonolysis"
     ],

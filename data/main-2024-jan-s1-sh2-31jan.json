@@ -167,8 +167,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-03.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-03.webp"
+    ],
     "tags": [
       "atwood machine"
     ],
@@ -226,8 +228,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-04.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-04.webp"
+    ],
     "tags": [
       "friction",
       "incline"
@@ -1087,22 +1091,22 @@
       {
         "key": "1",
         "text": "Truth table (1) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Truth table (2) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Truth table (3) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Truth table (4) — see PDF",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1113,8 +1117,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-19.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-19.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-19-opt-4.webp"
+    ],
     "tags": [
       "logic gates"
     ],
@@ -1286,8 +1296,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-23.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-23.webp"
+    ],
     "tags": [
       "elasticity"
     ],
@@ -1324,8 +1336,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-24.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-24.webp"
+    ],
     "tags": [
       "shm"
     ],
@@ -1362,8 +1376,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-25.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-25.webp"
+    ],
     "tags": [
       "electrostatic potential"
     ],
@@ -1400,8 +1416,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-26.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-26.webp"
+    ],
     "tags": [
       "circuits"
     ],
@@ -1729,8 +1747,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-33.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-33.webp"
+    ],
     "tags": [
       "periodic trends"
     ],
@@ -1811,31 +1831,31 @@
     "paper_section": null,
     "question_number": 35,
     "subject": "Chemistry",
-    "chapter": "Chemical Equilibrium",
-    "topic": "Expression for Kp",
+    "chapter": "Purification",
+    "topic": "Purification based on solubility",
     "question_type": "single",
-    "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: expression for kp.",
-    "text": "$A_{(g)}\\rightleftharpoons B_{(g)}+\\frac C{2\\,(g)}$. The correct relationship between $K_P$, $\\alpha$ and equilibrium pressure $P$ is",
+    "difficulty": "easy",
+    "difficulty_reason": "Rated from the stem: purification based on solubility.",
+    "text": "Which among the following purification methods is based on the principle of 'Solubility' in two different solvents?",
     "options": [
       {
         "key": "1",
-        "text": "$K_P=\\frac{\\alpha^{1/2}P^{1/2}}{2+\\alpha^{1/2}}$",
+        "text": "Column Chromatography",
         "image": null
       },
       {
         "key": "2",
-        "text": "$K_P=\\frac{\\alpha^{3/2}P^{1/2}}{2+\\alpha^{1/2}(1-\\alpha)}$",
+        "text": "Sublimation",
         "image": null
       },
       {
         "key": "3",
-        "text": "$K_P=\\frac{\\alpha^{1/2}P^{3/2}}{2+\\alpha^{3/2}}$",
+        "text": "Distillation",
         "image": null
       },
       {
         "key": "4",
-        "text": "$K_P=\\frac{\\alpha^{3/2}P^{1/2}}{2+\\alpha^{3/2}}$",
+        "text": "Differential Extraction",
         "image": null
       }
     ],
@@ -1850,9 +1870,9 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "equilibrium"
+      "purification"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -1870,31 +1890,31 @@
     "paper_section": null,
     "question_number": 36,
     "subject": "Chemistry",
-    "chapter": "Chemical Bonding",
-    "topic": "Statements on S8 and ClO4- disproportionation",
+    "chapter": "Reactive Intermediates",
+    "topic": "Carbocation stability order",
     "question_type": "single",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: statements on s8 and clo4- disproportionation.",
-    "text": "Given below are two statements: Statement I: $\\mathrm S_8$ solid undergoes disproportionation reaction under alkaline conditions to form $\\mathrm S^{2-}$ and $\\mathrm S_2\\mathrm O_3^{2-}$. Statement II: $\\mathrm{ClO_4^-}$ can undergo disproportionation reaction under acidic condition. In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "difficulty_reason": "Rated from the stem: carbocation stability order.",
+    "text": "The correct stability order of carbocations is",
     "options": [
       {
         "key": "1",
-        "text": "Statement I is correct but statement II is incorrect.",
+        "text": "$\\mathrm{CH_3\\overset{+}{C}}>\\mathrm{CH_3\\overset{+}{C}H}$ ... (see PDF)",
         "image": null
       },
       {
         "key": "2",
-        "text": "Statement I is incorrect but statement II is correct.",
+        "text": "(see PDF) option 2",
         "image": null
       },
       {
         "key": "3",
-        "text": "Both statement I and statement II are incorrect.",
+        "text": "(see PDF) option 3",
         "image": null
       },
       {
         "key": "4",
-        "text": "Both statement I and statement II are correct.",
+        "text": "(see PDF) option 4",
         "image": null
       }
     ],
@@ -1909,9 +1929,9 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "disproportionation"
+      "carbocation"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Option or figure text is a placeholder; see PDF.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -1929,71 +1949,12 @@
     "paper_section": null,
     "question_number": 37,
     "subject": "Chemistry",
-    "chapter": "Haloalkanes",
-    "topic": "Group 13 halides statements",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Products of reaction sequence",
     "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: group 13 halides statements.",
-    "text": "Given below are two statements: Statement I: Group 13 trivalent halides get easily hydrolysed by water due to their covalent nature. Statement II: $\\mathrm{AlCl_3}$ upon hydrolysis in acidified aqueous solution forms octahedral $[\\mathrm{AlH_2O_6}]^{3+}$ ion. In the light of the above statements, choose the correct answer from the options given below:",
-    "options": [
-      {
-        "key": "1",
-        "text": "Statement I is true but statement II is false",
-        "image": null
-      },
-      {
-        "key": "2",
-        "text": "Statement I is false but statement II is true",
-        "image": null
-      },
-      {
-        "key": "3",
-        "text": "Both statement I and statement II are false",
-        "image": null
-      },
-      {
-        "key": "4",
-        "text": "Both statement I and statement II are true",
-        "image": null
-      }
-    ],
-    "correct_answer": [
-      "4"
-    ],
-    "marks_correct": 4,
-    "marks_incorrect": -1,
-    "marks_unattempted": 0,
-    "solution": null,
-    "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "group 13"
-    ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
-    "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
-  },
-  {
-    "id": "main-2024-jan-s1-sh2-31jan-p-38",
-    "exam": "main",
-    "year": 2024,
-    "session": "Jan-S1",
-    "session_number": 1,
-    "session_month": "Jan",
-    "shift": 2,
-    "shift_label": "Shift 2",
-    "date": "2024-01-31",
-    "paper": null,
-    "paper_section": null,
-    "question_number": 38,
-    "subject": "Chemistry",
-    "chapter": "Haloalkanes",
-    "topic": "Structure of 2,3-dibromo-1-phenylpentane",
-    "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: structure of 2,3-dibromo-1-phenylpentane.",
-    "text": "Identify structure of 2, 3-dibromo-1-phenylpentane.",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: products of reaction sequence.",
+    "text": "Product A and B formed in the following set of reactions are:",
     "options": [
       {
         "key": "1",
@@ -2017,7 +1978,7 @@
       }
     ],
     "correct_answer": [
-      "3"
+      "4"
     ],
     "marks_correct": 4,
     "marks_incorrect": -1,
@@ -2027,9 +1988,73 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "iupac structure"
+      "organic reactions"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
+    "verified": false,
+    "verified_against": "text layer and printed answer key; second-pass check pending"
+  },
+  {
+    "id": "main-2024-jan-s1-sh2-31jan-p-38",
+    "exam": "main",
+    "year": 2024,
+    "session": "Jan-S1",
+    "session_number": 1,
+    "session_month": "Jan",
+    "shift": 2,
+    "shift_label": "Shift 2",
+    "date": "2024-01-31",
+    "paper": null,
+    "paper_section": null,
+    "question_number": 38,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Mole fraction of C",
+    "question_type": "single",
+    "difficulty": "easy",
+    "difficulty_reason": "Rated from the stem: mole fraction of c.",
+    "text": "If a substance 'A' dissolves in solution of a mixture of 'B' and 'C' with their respective number of moles as $n_A$, $n_B$ and $n_C$, mole fraction of $C$ in the solution is:",
+    "options": [
+      {
+        "key": "1",
+        "text": "$\\frac{n_C}{n_A\\times n_B\\times n_C}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-1.webp"
+      },
+      {
+        "key": "2",
+        "text": "$\\frac{n_C}{n_A+n_B+n_C}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-2.webp"
+      },
+      {
+        "key": "3",
+        "text": "$\\frac{n_C}{n_A-n_B-n_C}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-3.webp"
+      },
+      {
+        "key": "4",
+        "text": "$\\frac{n_B}{n_A+n_B}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-4.webp"
+      }
+    ],
+    "correct_answer": [
+      "3"
+    ],
+    "marks_correct": 4,
+    "marks_incorrect": -1,
+    "marks_unattempted": 0,
+    "solution": null,
+    "solution_source": null,
+    "image": null,
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-38-opt-4.webp"
+    ],
+    "tags": [
+      "mole fraction"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2047,31 +2072,31 @@
     "paper_section": null,
     "question_number": 39,
     "subject": "Chemistry",
-    "chapter": "Chemistry in Everyday Life",
-    "topic": "Method for extracting essential oils",
+    "chapter": "Solutions",
+    "topic": "Highest depression in freezing point",
     "question_type": "single",
-    "difficulty": "easy",
-    "difficulty_reason": "Rated from the stem: method for extracting essential oils.",
-    "text": "The fragrance of flowers is due to the presence of some steam volatile organic compounds called essential oils. These are generally insoluble in water at room temperature but are miscible with water vapour in the vapour phase. A suitable method for the extraction of these oils from the flowers is:",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: highest depression in freezing point.",
+    "text": "The solution from the following with highest depression in freezing point/lowest freezing point is:",
     "options": [
       {
         "key": "1",
-        "text": "crystallisation",
+        "text": "180 g of acetic acid dissolved in 1 L of aqueous solution",
         "image": null
       },
       {
         "key": "2",
-        "text": "distillation under reduced pressure",
+        "text": "180 g of acetic acid dissolved in benzene",
         "image": null
       },
       {
         "key": "3",
-        "text": "distillation",
+        "text": "180 g of benzoic acid dissolved in benzene",
         "image": null
       },
       {
         "key": "4",
-        "text": "steam distillation",
+        "text": "180 g of glucose dissolved in water",
         "image": null
       }
     ],
@@ -2086,7 +2111,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "steam distillation"
+      "colligative"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2106,32 +2131,32 @@
     "paper_section": null,
     "question_number": 40,
     "subject": "Chemistry",
-    "chapter": "Alkenes",
-    "topic": "Major product with D-Cl",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising power order",
     "question_type": "single",
-    "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: major product with d-cl.",
-    "text": "Major product of the following reaction is: (1-methylcyclopentene) + D-Cl $\\to$ ?",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: oxidising power order.",
+    "text": "Reduction potential of ions are given below: $\\mathrm{ClO_4^-}$ $E^\\circ=1.19$ V; $\\mathrm{IO_4^-}$ $E^\\circ=1.65$ V; $\\mathrm{BrO_4^-}$ $E^\\circ=1.74$ V. The correct order of their oxidising power is:",
     "options": [
       {
         "key": "1",
-        "text": "Structure (1) — see PDF",
-        "image": null
+        "text": "$\\mathrm{ClO_4^-}>\\mathrm{IO_4^-}>\\mathrm{BrO_4^-}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-1.webp"
       },
       {
         "key": "2",
-        "text": "Structure (2) — see PDF",
-        "image": null
+        "text": "$\\mathrm{BrO_4^-}>\\mathrm{IO_4^-}>\\mathrm{ClO_4^-}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-2.webp"
       },
       {
         "key": "3",
-        "text": "Structure (3) — see PDF",
-        "image": null
+        "text": "$\\mathrm{BrO_4^-}>\\mathrm{ClO_4^-}>\\mathrm{IO_4^-}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-3.webp"
       },
       {
         "key": "4",
-        "text": "Structure (4) — see PDF",
-        "image": null
+        "text": "$\\mathrm{IO_4^-}>\\mathrm{BrO_4^-}>\\mathrm{ClO_4^-}$",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2142,12 +2167,18 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "addition"
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-40.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-40.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-40-opt-4.webp"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
+    "tags": [
+      "redox"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2165,32 +2196,32 @@
     "paper_section": null,
     "question_number": 41,
     "subject": "Chemistry",
-    "chapter": "Aromatic Compounds",
-    "topic": "Identify A and B in nitration",
+    "chapter": "p-Block Elements",
+    "topic": "Group 15 hydrides statements",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: identify a and b in nitration.",
-    "text": "Identify $A$ and $B$ in the following reaction sequence. (bromobenzene, conc. HNO$_3$, then (i) NaOH (ii) HCl)",
+    "difficulty_reason": "Rated from the stem: group 15 hydrides statements.",
+    "text": "Choose the correct statements about the hydrides of group 15 elements. A. The stability of the hydrides decreases in the order NH$_3$ > PH$_3$ > AsH$_3$ > SbH$_3$ > BiH$_3$. B. The reducing ability of the hydrides increases in the order NH$_3$ < PH$_3$ < AsH$_3$ < SbH$_3$ < BiH$_3$. C. Among the hydrides, NH$_3$ is strong reducing agent while BiH$_3$ is mild reducing agent. D. The basicity of the hydrides increases in the order NH$_3$ < PH$_3$ < AsH$_3$ < SbH$_3$ < BiH$_3$. Choose the most appropriate option:",
     "options": [
       {
         "key": "1",
-        "text": "Structures (1) — see PDF",
-        "image": null
+        "text": "B and C only",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-1.webp"
       },
       {
         "key": "2",
-        "text": "Structures (2) — see PDF",
-        "image": null
+        "text": "C and D only",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-2.webp"
       },
       {
         "key": "3",
-        "text": "Structures (3) — see PDF",
-        "image": null
+        "text": "A and B only",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-3.webp"
       },
       {
         "key": "4",
-        "text": "Structures (4) — see PDF",
-        "image": null
+        "text": "A and D only",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2201,12 +2232,18 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "nucleophilic substitution"
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-41.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-41.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-41-opt-4.webp"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
+    "tags": [
+      "hydrides"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2224,31 +2261,31 @@
     "paper_section": null,
     "question_number": 42,
     "subject": "Chemistry",
-    "chapter": "p-Block Elements",
-    "topic": "Statements on group 16 oxides",
+    "chapter": "d-Block Elements",
+    "topic": "Colour of dichromate and permanganate",
     "question_type": "single",
-    "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: statements on group 16 oxides.",
-    "text": "Choose the correct statements from the following: A. All group 16 elements form oxides of general formula $EO_2$ and $EO_3$ where $E=S$, $Se$, $Te$ and $Po$. Both the types of oxides are acidic in nature. B. $TeO_2$ is an oxidising agent while $SO_2$ is reducing in nature. C. The reducing property decreases from $H_2S$ to $H_2Te$ down the group. D. The ozone molecule contains five lone pairs of electrons. Choose the correct answer from the options given below:",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: colour of dichromate and permanganate.",
+    "text": "The orange colour of $\\mathrm{K_2Cr_2O_7}$ and purple colour of $\\mathrm{KMnO_4}$ is due to",
     "options": [
       {
         "key": "1",
-        "text": "A and D only",
+        "text": "Charge transfer transition in both",
         "image": null
       },
       {
         "key": "2",
-        "text": "B and C only",
+        "text": "d-d transition in KMnO$_4$ and charge transfer transitions in K$_2$Cr$_2$O$_7$",
         "image": null
       },
       {
         "key": "3",
-        "text": "C and D only",
+        "text": "d-d transition in K$_2$Cr$_2$O$_7$ and charge transfer transitions in KMnO$_4$",
         "image": null
       },
       {
         "key": "4",
-        "text": "A and B only",
+        "text": "d-d transition in both",
         "image": null
       }
     ],
@@ -2263,7 +2300,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "oxides"
+      "colour"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2284,30 +2321,30 @@
     "question_number": 43,
     "subject": "Chemistry",
     "chapter": "d-Block Elements",
-    "topic": "Statements on oxides of Mn, Cr, V",
+    "topic": "Products A and B from chromyl chloride",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: statements on oxides of mn, cr, v.",
-    "text": "Choose the correct statements from the following: A. $\\mathrm{Mn_2O_7}$ is an oil at room temperature. B. $\\mathrm{V_2O_4}$ reacts with acid to give $\\mathrm{VO_2^{2+}}$. C. CrO is a basic oxide. D. $\\mathrm{V_2O_5}$ does not react with acid. Choose the correct answer from the options given below:",
+    "difficulty_reason": "Rated from the stem: products a and b from chromyl chloride.",
+    "text": "A and B formed in the following reactions are: $\\mathrm{CrO_2Cl_2}+4\\mathrm{NaOH}\\to\\mathrm A+2\\mathrm{NaCl}+2\\mathrm H_2\\mathrm O$; $\\mathrm A+2\\mathrm{HCl}+2\\mathrm H_2\\mathrm O_2\\to\\mathrm B+3\\mathrm H_2\\mathrm O$. Choose the correct option:",
     "options": [
       {
         "key": "1",
-        "text": "A, B and D only",
+        "text": "A = Na$_2$CrO$_4$, B = CrO$_5$",
         "image": null
       },
       {
         "key": "2",
-        "text": "A and C only",
+        "text": "A = Na$_2$CrO$_4$, B = CrO$_3$",
         "image": null
       },
       {
         "key": "3",
-        "text": "A, B and C only",
+        "text": "A = Na$_2$Cr$_2$O$_7$, B = CrO$_5$",
         "image": null
       },
       {
         "key": "4",
-        "text": "B and C only",
+        "text": "A = Na$_2$Cr$_2$O$_7$, B = CrO$_3$",
         "image": null
       }
     ],
@@ -2322,7 +2359,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "oxides"
+      "chromium compounds"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2342,31 +2379,31 @@
     "paper_section": null,
     "question_number": 44,
     "subject": "Chemistry",
-    "chapter": "Coordination Compounds",
-    "topic": "Correct property of NiCO4 and NiCl4 2-",
+    "chapter": "Qualitative Analysis",
+    "topic": "Products of alkaline oxidative fusion of MnO2",
     "question_type": "single",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: correct property of nico4 and nicl4 2-.",
-    "text": "Select the option with correct property:",
+    "difficulty_reason": "Rated from the stem: products of alkaline oxidative fusion of mno2.",
+    "text": "Alkaline oxidative fusion of $\\mathrm{MnO_2}$ gives 'A' which on electrolytic oxidation in alkaline solution produces $B$. A and B respectively are:",
     "options": [
       {
         "key": "1",
-        "text": "$\\mathrm{NiCO_4}$ and $\\mathrm{NiCl_4^{2-}}$ both diamagnetic",
+        "text": "Mn$_2$O$_7$ and MnO$_4^-$",
         "image": null
       },
       {
         "key": "2",
-        "text": "$\\mathrm{NiCO_4}$ and $\\mathrm{NiCl_4^{2-}}$ both paramagnetic",
+        "text": "MnO$_4^{2-}$ and MnO$_4^-$",
         "image": null
       },
       {
         "key": "3",
-        "text": "$\\mathrm{NiCl_4^{2-}}$ diamagnetic, $\\mathrm{NiCO_4}$ paramagnetic",
+        "text": "Mn$_2$O$_3$ and MnO$_4^{2-}$",
         "image": null
       },
       {
         "key": "4",
-        "text": "$\\mathrm{NiCO_4}$ diamagnetic, $\\mathrm{NiCl_4^{2-}}$ paramagnetic",
+        "text": "MnO$_4^{2-}$ and Mn$_2$O$_7$",
         "image": null
       }
     ],
@@ -2381,7 +2418,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "magnetism"
+      "manganese"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2401,31 +2438,31 @@
     "paper_section": null,
     "question_number": 45,
     "subject": "Chemistry",
-    "chapter": "Coordination Compounds",
-    "topic": "Match complex ion with configuration",
+    "chapter": "Chemical Bonding",
+    "topic": "Square pyramidal shape",
     "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: match complex ion with configuration.",
-    "text": "Match List I with List II. List I (Complex ion): A. $\\mathrm{CrH_2O_6^{3+}}$, B. $\\mathrm{FeH_2O_6^{3+}}$, C. $\\mathrm{NiH_2O_6^{2+}}$, D. $\\mathrm{VH_2O_6^{3+}}$. List II (Electronic configuration): I. $t_{2g}^2e_g^0$, II. $t_{2g}^3e_g^0$, III. $t_{2g}^3e_g^2$, IV. $t_{2g}^6e_g^2$. Choose the correct answer from the options given below:",
+    "difficulty": "easy",
+    "difficulty_reason": "Rated from the stem: square pyramidal shape.",
+    "text": "The molecule/ion with square pyramidal shape is:",
     "options": [
       {
         "key": "1",
-        "text": "A-III, B-II, C-IV, D-I",
+        "text": "Ni(CN)$_4^{2-}$",
         "image": null
       },
       {
         "key": "2",
-        "text": "A-IV, B-I, C-II, D-III",
+        "text": "PCl$_5$",
         "image": null
       },
       {
         "key": "3",
-        "text": "A-IV, B-III, C-I, D-II",
+        "text": "BrF$_5$",
         "image": null
       },
       {
         "key": "4",
-        "text": "A-II, B-III, C-IV, D-I",
+        "text": "PF$_5$",
         "image": null
       }
     ],
@@ -2440,9 +2477,9 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "crystal field"
+      "vsepr"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Key as printed; for square pyramidal BrF5 is usually expected, so verify.",
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2460,31 +2497,31 @@
     "paper_section": null,
     "question_number": 46,
     "subject": "Chemistry",
-    "chapter": "Aromatic Compounds",
-    "topic": "Correct order of reactivity in electrophilic substitution",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometry around Mn in decacarbonyl",
     "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: correct order of reactivity in electrophilic substitution.",
-    "text": "The correct order of reactivity in electrophilic substitution reaction of the following compounds is: A = benzene, B = toluene, C = chlorobenzene, D = nitrobenzene.",
+    "difficulty": "easy",
+    "difficulty_reason": "Rated from the stem: geometry around mn in decacarbonyl.",
+    "text": "The coordination geometry around the manganese in decacarbonyldimanganese is",
     "options": [
       {
         "key": "1",
-        "text": "B > C > A > D",
+        "text": "Octahedral",
         "image": null
       },
       {
         "key": "2",
-        "text": "D > C > B > A",
+        "text": "Trigonal bipyramidal",
         "image": null
       },
       {
         "key": "3",
-        "text": "A > B > C > D",
+        "text": "Square pyramidal",
         "image": null
       },
       {
         "key": "4",
-        "text": "B > A > C > D",
+        "text": "Square planar",
         "image": null
       }
     ],
@@ -2496,12 +2533,14 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "electrophilic substitution"
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-46.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-46.webp"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
+    "tags": [
+      "coordination"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2519,31 +2558,31 @@
     "paper_section": null,
     "question_number": 47,
     "subject": "Chemistry",
-    "chapter": "Haloalkanes",
-    "topic": "Name reaction for benzaldehyde synthesis",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "SN1 and SN2 statements",
     "question_type": "single",
-    "difficulty": "easy",
-    "difficulty_reason": "Rated from the stem: name reaction for benzaldehyde synthesis.",
-    "text": "Identify the name reaction.",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: sn1 and sn2 statements.",
+    "text": "Given below are two statements: Statement I: High concentration of strong nucleophilic reagent with secondary alkyl halides which do not have bulky substituents will follow SN2 mechanism. Statement II: A secondary alkyl halide when treated with a large excess of ethanol follows SN1 mechanism. In the light of the above statements, choose the most appropriate answer:",
     "options": [
       {
         "key": "1",
-        "text": "Stephen reaction",
+        "text": "Statement I is true but Statement II is false",
         "image": null
       },
       {
         "key": "2",
-        "text": "Etard reaction",
+        "text": "Statement I is false but Statement II is true",
         "image": null
       },
       {
         "key": "3",
-        "text": "Gatterman-Koch reaction",
+        "text": "Both Statement I and Statement II are false",
         "image": null
       },
       {
         "key": "4",
-        "text": "Rosenmund reduction",
+        "text": "Both Statement I and Statement II are true",
         "image": null
       }
     ],
@@ -2555,12 +2594,15 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "named reactions"
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-47.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-47.webp"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
+    "tags": [
+      "sn1",
+      "sn2"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2578,32 +2620,32 @@
     "paper_section": null,
     "question_number": 48,
     "subject": "Chemistry",
-    "chapter": "Aromatic Compounds",
-    "topic": "Major product P of Friedel-Crafts",
+    "chapter": "Aldehydes and Ketones",
+    "topic": "Salicylaldehyde synthesis reagent",
     "question_type": "single",
-    "difficulty": "easy",
-    "difficulty_reason": "Rated from the stem: major product p of friedel-crafts.",
-    "text": "Identify major product '$P$' formed in the following reaction (benzene with benzoyl chloride, anhydrous AlCl$_3$).",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: salicylaldehyde synthesis reagent.",
+    "text": "Salicylaldehyde is synthesized from phenol, when reacted with",
     "options": [
       {
         "key": "1",
-        "text": "Structure (1) — see PDF",
-        "image": null
+        "text": "Chloroform (see PDF)",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-1.webp"
       },
       {
         "key": "2",
-        "text": "Structure (2) — see PDF",
-        "image": null
+        "text": "CO$_2$, NaOH",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-2.webp"
       },
       {
         "key": "3",
-        "text": "Structure (3) — see PDF",
-        "image": null
+        "text": "CCl$_4$, NaOH",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-3.webp"
       },
       {
         "key": "4",
-        "text": "Structure (4) — see PDF",
-        "image": null
+        "text": "HCCl$_3$, NaOH",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2614,12 +2656,18 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "friedel crafts"
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-48.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-48.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-48-opt-4.webp"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
+    "tags": [
+      "reimer tiemann"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Option or figure text is a placeholder; see PDF.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2637,32 +2685,32 @@
     "paper_section": null,
     "question_number": 49,
     "subject": "Chemistry",
-    "chapter": "Haloalkanes",
-    "topic": "Azo dye Y",
+    "chapter": "Haloarenes",
+    "topic": "Product of m-chlorobenzaldehyde",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: azo dye y.",
-    "text": "The azo-dye $Y$ formed in the following reactions is Sulphanilic acid + NaNO$_2$ + CH$_3$COOH $\\rightarrow$ X; X + naphthylamine $\\rightarrow$ Y.",
+    "difficulty_reason": "Rated from the stem: product of m-chlorobenzaldehyde.",
+    "text": "m-chlorobenzaldehyde on treatment with $50\\%$ KOH solution yields",
     "options": [
       {
         "key": "1",
-        "text": "Structure (1) — see PDF",
-        "image": null
+        "text": "Product (1) — see PDF",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-1.webp"
       },
       {
         "key": "2",
-        "text": "Structure (2) — see PDF",
-        "image": null
+        "text": "Product (2) — see PDF",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-2.webp"
       },
       {
         "key": "3",
-        "text": "Structure (3) — see PDF",
-        "image": null
+        "text": "Product (3) — see PDF",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-3.webp"
       },
       {
         "key": "4",
-        "text": "Structure (4) — see PDF",
-        "image": null
+        "text": "Product (4) — see PDF",
+        "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2673,10 +2721,16 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh2-31jan-p-49.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-49.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh2-31jan-p-49-opt-4.webp"
+    ],
     "tags": [
-      "azo dye"
+      "cannizzaro"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
     "verified": false,
@@ -2697,30 +2751,30 @@
     "question_number": 50,
     "subject": "Chemistry",
     "chapter": "Aromatic Compounds",
-    "topic": "Statements on aniline",
+    "topic": "Products A and B of scheme",
     "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: statements on aniline.",
-    "text": "Given below are two statements: Statement I: Aniline reacts with con. $\\mathrm H_2\\mathrm{SO_4}$ followed by heating at $453-473$ K gives p-aminobenzene sulphonic acid, which gives blood red colour in the 'Lassaigne's test'. Statement II: In Friedel-Craft's alkylation and acylation reactions, aniline forms salt with the $\\mathrm{AlCl_3}$ catalyst. Due to this, nitrogen of aniline acquires a positive charge and acts as deactivating group. In the light of the above statements, choose the correct answer from the options given below:",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: products a and b of scheme.",
+    "text": "The products A and B formed in the following reaction scheme are respectively",
     "options": [
       {
         "key": "1",
-        "text": "Statement I is false but statement II is true",
+        "text": "A = m-nitroaniline, B = phenol (see PDF)",
         "image": null
       },
       {
         "key": "2",
-        "text": "Both statement I and statement II are false",
+        "text": "A = aniline, B = phenol (see PDF)",
         "image": null
       },
       {
         "key": "3",
-        "text": "Statement I is true but statement II is false",
+        "text": "A = m-nitrophenol, B = phenol (see PDF)",
         "image": null
       },
       {
         "key": "4",
-        "text": "Both statement I and statement II are true",
+        "text": "A = phenylhydrazine, B = aniline (see PDF)",
         "image": null
       }
     ],
@@ -2735,9 +2789,9 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "aniline"
+      "aromatic"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null. Option or figure text is a placeholder; see PDF.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2755,12 +2809,12 @@
     "paper_section": null,
     "question_number": 51,
     "subject": "Chemistry",
-    "chapter": "Some Basic Concepts",
-    "topic": "Molarity of phosphoric acid",
+    "chapter": "Atomic Structure",
+    "topic": "Spectral lines of He+",
     "question_type": "integer",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: molarity of phosphoric acid.",
-    "text": "The molarity of 1 L orthophosphoric acid $\\mathrm H_3\\mathrm{PO_4}$ having $70\\%$ purity by weight (specific gravity $1.54$ g cm$^{-3}$) is ______ M. (Molar mass of $\\mathrm H_3\\mathrm{PO_4}=98$ g mol$^{-1}$)",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: spectral lines of he+.",
+    "text": "Number of spectral lines obtained in He$^+$ spectra, when an electron makes transition from fifth excited state to first excited state will be",
     "options": [],
     "correct_answer": [
       "11"
@@ -2773,7 +2827,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "molarity"
+      "spectra"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2793,12 +2847,12 @@
     "paper_section": null,
     "question_number": 52,
     "subject": "Chemistry",
-    "chapter": "Chemical Bonding",
-    "topic": "Fractional charge on atoms",
+    "chapter": "Thermochemistry",
+    "topic": "Enthalpy for reaction of Fe2O3",
     "question_type": "integer",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: fractional charge on atoms.",
-    "text": "A diatomic molecule has a dipole moment of $1.2$ D. If the bond distance is $1\\,\\mathring{A}$, then fractional charge on each atom is ______ $\\times10^{-1}$ esu. (Given $1$ D $=10^{-18}$ esu cm)",
+    "difficulty_reason": "Rated from the stem: enthalpy for reaction of fe2o3.",
+    "text": "Two reactions are given below: $2\\mathrm{Fe}(s)+\\frac32\\mathrm{O_2}(g)\\to\\mathrm{Fe_2O_3}(s)$, $\\Delta H^\\circ=-822$ kJ/mol; $\\mathrm C(s)+\\frac12\\mathrm{O_2}(g)\\to\\mathrm{CO}(g)$, $\\Delta H^\\circ=-110$ kJ/mol. Then enthalpy change for the reaction $3\\mathrm C(s)+\\mathrm{Fe_2O_3}(s)\\to2\\mathrm{Fe}(s)+3\\mathrm{CO}(g)$ is ______ kJ.",
     "options": [],
     "correct_answer": [
       "0"
@@ -2811,7 +2865,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "dipole moment"
+      "hess law"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2831,12 +2885,12 @@
     "paper_section": null,
     "question_number": 53,
     "subject": "Chemistry",
-    "chapter": "Thermodynamics",
-    "topic": "Work for isothermal expansion",
+    "chapter": "Ionic Equilibrium",
+    "topic": "Volume of benzoic acid solution",
     "question_type": "integer",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: work for isothermal expansion.",
-    "text": "If 5 moles of an ideal gas expands from 10 L to a volume of 100 L at 300 K under isothermal and reversible condition then work, w, is $-x$ J. The value of $x$ is ______. (Given R = 8.314 J K$^{-1}$ mol$^{-1}$)",
+    "difficulty_reason": "Rated from the stem: volume of benzoic acid solution.",
+    "text": "The pH of an aqueous solution containing $1$ M benzoic acid $pK_a=4.20$ and $1$ M sodium benzoate is $4.5$. The volume of benzoic acid solution in $300$ mL of this buffer solution is ________ mL.",
     "options": [],
     "correct_answer": [
       "-28721"
@@ -2849,7 +2903,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "isothermal work"
+      "buffer"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Key value is negative as printed; verify.",
     "verified": false,
@@ -2869,12 +2923,12 @@
     "paper_section": null,
     "question_number": 54,
     "subject": "Chemistry",
-    "chapter": "Isomerism",
-    "topic": "Isomeric products of monochlorination",
+    "chapter": "Redox Reactions",
+    "topic": "Species undergoing disproportionation",
     "question_type": "integer",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: isomeric products of monochlorination.",
-    "text": "Number of isomeric products formed by monochlorination of 2-methylbutane in presence of sunlight is ______.",
+    "difficulty_reason": "Rated from the stem: species undergoing disproportionation.",
+    "text": "Total number of species from the following which can undergo disproportionation reaction ______. $\\mathrm{H_2O_2}$, $\\mathrm{ClO_3^-}$, $\\mathrm P_4$, $\\mathrm{Cl_2}$, $\\mathrm{Ag}$, $\\mathrm{Cu^{+1}}$, $\\mathrm F_2$, $\\mathrm{NO_2}$, $\\mathrm K^+$",
     "options": [],
     "correct_answer": [
       "6"
@@ -2887,7 +2941,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "free radical halogenation"
+      "disproportionation"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2907,12 +2961,12 @@
     "paper_section": null,
     "question_number": 55,
     "subject": "Chemistry",
-    "chapter": "Solid State",
-    "topic": "Conductors count",
+    "chapter": "Isomerism",
+    "topic": "Geometrical isomers count",
     "question_type": "integer",
-    "difficulty": "easy",
-    "difficulty_reason": "Rated from the stem: conductors count.",
-    "text": "The values of conductivity of some materials at $298.15$ K in S m$^{-1}$ are $2.1\\times10^3$, $1.0\\times10^{-16}$, $1.2\\times10$, $3.91$, $1.5\\times10^{-2}$, $1\\times10^{-7}$, $1.0\\times10^3$. The number of conductors among the materials is ______.",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: geometrical isomers count.",
+    "text": "Number of geometrical isomers possible for the given structure is/are ______.",
     "options": [],
     "correct_answer": [
       "4"
@@ -2925,9 +2979,9 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "conductivity"
+      "geometrical isomerism"
     ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
@@ -2946,11 +3000,11 @@
     "question_number": 56,
     "subject": "Chemistry",
     "chapter": "Chemical Kinetics",
-    "topic": "Time for 90% decomposition",
+    "topic": "NO2 formation rate",
     "question_type": "integer",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: time for 90% decomposition.",
-    "text": "$r=kA$ for a reaction, $50\\%$ of $A$ is decomposed in $120$ minutes. The time taken for $90\\%$ decomposition of $A$ is ______ minutes.",
+    "difficulty_reason": "Rated from the stem: no2 formation rate.",
+    "text": "$\\mathrm{NO_2}$ required for a reaction is produced by decomposition of $\\mathrm{N_2O_5}$ in $\\mathrm{CCl_4}$ as by equation $2\\mathrm{N_2O_5(g)}\\to4\\mathrm{NO_2(g)}+\\mathrm{O_2(g)}$. The initial concentration of $\\mathrm{N_2O_5}$ is $3$ mol L$^{-1}$ and it is $2.75$ mol L$^{-1}$ after $30$ minutes. The rate of formation of $\\mathrm{NO_2}$ is $x\\times10^{-3}$ mol L$^{-1}$ min$^{-1}$, value of $x$ is ______.",
     "options": [],
     "correct_answer": [
       "399"
@@ -2963,7 +3017,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "first order"
+      "rate"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -2983,12 +3037,12 @@
     "paper_section": null,
     "question_number": 57,
     "subject": "Chemistry",
-    "chapter": "Redox Reactions",
-    "topic": "H+ ions for oxalate oxidation",
+    "chapter": "Coordination Compounds",
+    "topic": "Optical isomerism count",
     "question_type": "integer",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: h+ ions for oxalate oxidation.",
-    "text": "Number of moles of $\\mathrm H^+$ ions required by 1 mole of $\\mathrm{MnO_4^-}$ to oxidise oxalate ion to $\\mathrm{CO_2}$ is ______.",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: optical isomerism count.",
+    "text": "Number of complexes which show optical isomerism among the following is ______. $cis$-$[\\mathrm{Cr(ox)_2Cl_2}]^{3-}$, $[\\mathrm{Co(en)_3}]^{3+}$, $cis$-$[\\mathrm{Pt(en)_2Cl_2}]^{2+}$, $cis$-$[\\mathrm{Co(en)_2Cl_2}]^{+}$, $trans$-$[\\mathrm{Pt(en)_2Cl_2}]^{2+}$, $trans$-$[\\mathrm{Cr(ox)_2Cl_2}]^{3-}$",
     "options": [],
     "correct_answer": [
       "8"
@@ -3001,7 +3055,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "redox"
+      "optical isomerism"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3021,12 +3075,12 @@
     "paper_section": null,
     "question_number": 58,
     "subject": "Chemistry",
-    "chapter": "d-Block Elements",
-    "topic": "Oxidation state of chromium in product",
+    "chapter": "Stereochemistry",
+    "topic": "Optically active isomers",
     "question_type": "integer",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: oxidation state of chromium in product.",
-    "text": "In the reaction of potassium dichromate, potassium chloride and sulfuric acid (conc.), the oxidation state of the chromium in the product is $+$ ______.",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: optically active isomers.",
+    "text": "2-chlorobutane $+\\mathrm{Cl_2}\\to\\mathrm C_4\\mathrm H_8\\mathrm{Cl_2}$ (isomers). Total number of optically active isomers shown by $\\mathrm C_4\\mathrm H_8\\mathrm{Cl_2}$, obtained in the above reaction is ______.",
     "options": [],
     "correct_answer": [
       "6"
@@ -3039,7 +3093,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "chromium"
+      "chirality"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3059,12 +3113,12 @@
     "paper_section": null,
     "question_number": 59,
     "subject": "Chemistry",
-    "chapter": "Amines",
-    "topic": "Amino groups in compound x",
+    "chapter": "Coordination Compounds",
+    "topic": "Metal ions with flame test",
     "question_type": "integer",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: amino groups in compound x.",
-    "text": "A compound $x$ with molar mass $108$ g mol$^{-1}$ undergoes acetylation to give product with molar mass $192$ g mol$^{-1}$. The number of amino groups in the compound $x$ is ________.",
+    "difficulty": "easy",
+    "difficulty_reason": "Rated from the stem: metal ions with flame test.",
+    "text": "Number of metal ions characterized by flame test among the following is ______. $\\mathrm{Sr^{2+}}$, $\\mathrm{Ba^{2+}}$, $\\mathrm{Ca^{2+}}$, $\\mathrm{Cu^{2+}}$, $\\mathrm{Zn^{2+}}$, $\\mathrm{Co^{2+}}$, $\\mathrm{Fe^{2+}}$",
     "options": [],
     "correct_answer": [
       "2"
@@ -3077,7 +3131,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "acetylation"
+      "flame test"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3098,11 +3152,11 @@
     "question_number": 60,
     "subject": "Chemistry",
     "chapter": "Biomolecules",
-    "topic": "Vitamins stored in body",
+    "topic": "Nucleic acid statements count",
     "question_type": "integer",
-    "difficulty": "easy",
-    "difficulty_reason": "Rated from the stem: vitamins stored in body.",
-    "text": "From the vitamins $A$, $B_1$, $B_6$, $B_{12}$, $C$, $D$, $E$ and $K$, the number vitamins that can be stored in our body is ______.",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: nucleic acid statements count.",
+    "text": "The total number of correct statements, regarding the nucleic acids is ______. A. RNA is regarded as the reserve of genetic information. B. DNA molecule self-duplicates during cell division. C. DNA synthesizes proteins in the cell. D. The message for the synthesis of particular proteins is present in DNA. E. Identical DNA strands are transferred to daughter cells.",
     "options": [],
     "correct_answer": [
       "5"
@@ -3115,7 +3169,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "vitamins"
+      "nucleic acids"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3135,71 +3189,12 @@
     "paper_section": null,
     "question_number": 61,
     "subject": "Maths",
-    "chapter": "Differential Equations",
-    "topic": "Number of solutions of e^sinx - 2e^-sinx = 2",
-    "question_type": "single",
-    "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: number of solutions of e^sinx - 2e^-sinx = 2.",
-    "text": "The number of solutions, of the equation $e^{\\sin x}-2e^{-\\sin x}=2$ is",
-    "options": [
-      {
-        "key": "1",
-        "text": "2",
-        "image": null
-      },
-      {
-        "key": "2",
-        "text": "more than 2",
-        "image": null
-      },
-      {
-        "key": "3",
-        "text": "1",
-        "image": null
-      },
-      {
-        "key": "4",
-        "text": "0",
-        "image": null
-      }
-    ],
-    "correct_answer": [
-      "4"
-    ],
-    "marks_correct": 4,
-    "marks_incorrect": -1,
-    "marks_unattempted": 0,
-    "solution": null,
-    "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "exponential equations"
-    ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
-    "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
-  },
-  {
-    "id": "main-2024-jan-s1-sh2-31jan-p-62",
-    "exam": "main",
-    "year": 2024,
-    "session": "Jan-S1",
-    "session_number": 1,
-    "session_month": "Jan",
-    "shift": 2,
-    "shift_label": "Shift 2",
-    "date": "2024-01-31",
-    "paper": null,
-    "paper_section": null,
-    "question_number": 62,
-    "subject": "Maths",
     "chapter": "Complex Numbers",
-    "topic": "Value of z1^4 + z2^4",
+    "topic": "Value of z1^4+z2^4",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: value of z1^4 + z2^4.",
-    "text": "Let $z_1$ and $z_2$ be two complex number such that $z_1+z_2=5$ and $z_1^3+z_2^3=20+15i$. Then $z_1^4+z_2^4$ equals",
+    "difficulty_reason": "Rated from the stem: value of z1^4+z2^4.",
+    "text": "Let $z_1$ and $z_2$ be two complex numbers such that $z_1+z_2=5$ and $z_1^3+z_2^3=20+15i$. Then $z_1^4+z_2^4$ equals",
     "options": [
       {
         "key": "1",
@@ -3223,7 +3218,7 @@
       }
     ],
     "correct_answer": [
-      "2"
+      "4"
     ],
     "marks_correct": 4,
     "marks_incorrect": -1,
@@ -3234,6 +3229,65 @@
     "figure_refs": [],
     "tags": [
       "complex numbers"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
+    "verified": false,
+    "verified_against": "text layer and printed answer key; second-pass check pending"
+  },
+  {
+    "id": "main-2024-jan-s1-sh2-31jan-p-62",
+    "exam": "main",
+    "year": 2024,
+    "session": "Jan-S1",
+    "session_number": 1,
+    "session_month": "Jan",
+    "shift": 2,
+    "shift_label": "Shift 2",
+    "date": "2024-01-31",
+    "paper": null,
+    "paper_section": null,
+    "question_number": 62,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Term of GP",
+    "question_type": "single",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: term of gp.",
+    "text": "Let $a$ and $b$ be two distinct positive real numbers. Let the $11^{th}$ term of a GP, whose first term is $a$ and third term is $b$, is equal to $p^{th}$ term of another GP, whose first term is $a$ and fifth term is $b$. Then $p$ is equal to",
+    "options": [
+      {
+        "key": "1",
+        "text": "20",
+        "image": null
+      },
+      {
+        "key": "2",
+        "text": "25",
+        "image": null
+      },
+      {
+        "key": "3",
+        "text": "21",
+        "image": null
+      },
+      {
+        "key": "4",
+        "text": "24",
+        "image": null
+      }
+    ],
+    "correct_answer": [
+      "2"
+    ],
+    "marks_correct": 4,
+    "marks_incorrect": -1,
+    "marks_unattempted": 0,
+    "solution": null,
+    "solution_source": null,
+    "image": null,
+    "figure_refs": [],
+    "tags": [
+      "geometric progression"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3313,11 +3367,11 @@
     "question_number": 64,
     "subject": "Maths",
     "chapter": "Sequences and Series",
-    "topic": "AP and GP link",
+    "topic": "Sum of AP from GP",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: ap and gp link.",
-    "text": "Let $2^{nd}$, $8^{th}$ and $44^{th}$, terms of a non-constant $A.P.$ be respectively the $1^{st}$, $2^{nd}$ and $3^{rd}$ terms of $G.P.$. If the first term of A.P. is $1$ then the sum of first $20$ terms is equal to",
+    "difficulty_reason": "Rated from the stem: sum of ap from gp.",
+    "text": "Let $2^{nd}$, $8^{th}$ and $44^{th}$ terms of a non-constant A.P. be respectively the $1^{st}$, $2^{nd}$ and $3^{rd}$ terms of a G.P. If the first term of A.P. is $1$ then the sum of first $20$ terms is equal to",
     "options": [
       {
         "key": "1",
@@ -3373,10 +3427,10 @@
     "question_number": 65,
     "subject": "Maths",
     "chapter": "Binomial Theorem",
-    "topic": "Binomial inequality for m, n",
+    "topic": "Binomial coefficient sum",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: binomial inequality for m, n.",
+    "difficulty_reason": "Rated from the stem: binomial coefficient sum.",
     "text": "If for some $m,n$; ${}^6C_m+2\\,{}^6C_{m+1}+{}^6C_{m+2}>8\\,{}^3C_3$ and ${}^{n-1}P_3:{}^nP_4=1:8$, then ${}^nP_{m+1}+{}^{n+1}C_m$ is equal to",
     "options": [
       {
@@ -3431,12 +3485,12 @@
     "paper_section": null,
     "question_number": 66,
     "subject": "Maths",
-    "chapter": "Coordinate Geometry",
-    "topic": "Centroid circumcentre orthocentre",
+    "chapter": "Circles",
+    "topic": "Centroid circumcentre orthocentre distance",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: centroid circumcentre orthocentre.",
-    "text": "Let $A(a,b)$, $B(3,4)$, $C(-6,-8)$ respectively denote the centroid, circumcentre and orthocentre of a triangle. Then, the distance of the point $P(2a+3,7b+5)$ from the line $2x+3y-4=0$ measured parallel to the line $x-2y-1=0$ is",
+    "difficulty_reason": "Rated from the stem: centroid circumcentre orthocentre distance.",
+    "text": "Let $A(a,b)$, $B(3,4)$ and $C(-6,-8)$ respectively denote the centroid, circumcentre and orthocentre of a triangle. Then, the distance of the point $P(2a+3,7b+5)$ from the line $2x+3y-4=0$ measured parallel to the line $x-2y-1=0$ is",
     "options": [
       {
         "key": "1",
@@ -3492,11 +3546,11 @@
     "question_number": 67,
     "subject": "Maths",
     "chapter": "Circles",
-    "topic": "Minimum of OA + OB",
+    "topic": "Minimum OA+OB",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: minimum of oa + ob.",
-    "text": "Let a variable line passing through the centre of the circle $x^2+y^2-16x-4y=0$, meet the positive co-ordinate axes at the point $A$ and $B$. Then the minimum value of $OA+OB$, where $O$ is the origin, is equal to",
+    "difficulty_reason": "Rated from the stem: minimum oa+ob.",
+    "text": "Let a variable line passing through the centre of the circle $x^2+y^2-16x-4y=0$, meet the positive coordinate axes at the point $A$ and $B$. Then the minimum value of $OA+OB$, where $O$ is the origin, is equal to",
     "options": [
       {
         "key": "1",
@@ -3551,10 +3605,10 @@
     "question_number": 68,
     "subject": "Maths",
     "chapter": "Conic Sections",
-    "topic": "Latus rectum of ellipse",
+    "topic": "Latus rectum square",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: latus rectum of ellipse.",
+    "difficulty_reason": "Rated from the stem: latus rectum square.",
     "text": "Let $P$ be a parabola with vertex $(2,3)$ and directrix $2x+y=6$. Let an ellipse $E:\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$, $a>b$ of eccentricity $\\frac1{\\sqrt2}$ pass through the focus of the parabola $P$. Then the square of the length of the latus rectum of $E$, is",
     "options": [
       {
@@ -3611,11 +3665,11 @@
     "question_number": 69,
     "subject": "Maths",
     "chapter": "Limits",
-    "topic": "Limit of f(5x)/f(x)",
+    "topic": "Limit f(7x)/f(x)",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: limit of f(5x)/f(x).",
-    "text": "Let $f:\\mathbb R\\to(0,\\infty)$ be a strictly increasing function such that $\\lim_{x\\to\\infty}\\frac{f(7x)}{f(x)}=1$. Then, the value of $\\lim_{x\\to\\infty}\\frac{f(5x)}{f(x)}-1$ is equal to",
+    "difficulty_reason": "Rated from the stem: limit f(7x)/f(x).",
+    "text": "Let $f:\\mathbb R\\to(0,\\infty)$ be strictly increasing function such that $\\lim_{x\\to\\infty}\\frac{f(7x)}{f(x)}=1$. Then, the value of $\\lim_{x\\to\\infty}\\frac{f(5x)}{f(x)}-1$ is equal to",
     "options": [
       {
         "key": "1",
@@ -3670,11 +3724,11 @@
     "question_number": 70,
     "subject": "Maths",
     "chapter": "Statistics",
-    "topic": "Mean and variance",
+    "topic": "Value of a+3b",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: mean and variance.",
-    "text": "Let the mean and the variance of $6$ observations $a,b,68,44,48,60$ be $55$ and $194$, respectively. If $a>b$, then $a+3b$ is",
+    "difficulty_reason": "Rated from the stem: value of a+3b.",
+    "text": "Let the mean and the variance of $6$ observation $a,b,68,44,48,60$ be $55$ and $194$, respectively. If $a>b$, then $a+3b$ is",
     "options": [
       {
         "key": "1",
@@ -3729,10 +3783,10 @@
     "question_number": 71,
     "subject": "Maths",
     "chapter": "Matrices and Determinants",
-    "topic": "System with A-3I",
+    "topic": "System with matrix A-3I",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: system with a-3i.",
+    "difficulty_reason": "Rated from the stem: system with matrix a-3i.",
     "text": "Let $A$ be a $3\\times3$ real matrix such that $A\\begin{bmatrix}1\\\\0\\\\1\\end{bmatrix}=2\\begin{bmatrix}1\\\\0\\\\1\\end{bmatrix}$, $A\\begin{bmatrix}-1\\\\0\\\\1\\end{bmatrix}=4\\begin{bmatrix}-1\\\\0\\\\1\\end{bmatrix}$, $A\\begin{bmatrix}0\\\\1\\\\0\\end{bmatrix}=2\\begin{bmatrix}0\\\\1\\\\0\\end{bmatrix}$. Then, the system $(A-3I)\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}1\\\\2\\\\3\\end{bmatrix}$ has",
     "options": [
       {
@@ -3788,10 +3842,10 @@
     "question_number": 72,
     "subject": "Maths",
     "chapter": "Inverse Trigonometric Functions",
-    "topic": "Value of a^2+b^2",
+    "topic": "Value of a squared plus b squared",
     "question_type": "single",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: value of a^2+b^2.",
+    "difficulty_reason": "Rated from the stem: value of a squared plus b squared.",
     "text": "If $a=\\sin^{-1}(\\sin5)$ and $b=\\cos^{-1}(\\cos5)$, then $a^2+b^2$ is equal to",
     "options": [
       {
@@ -3847,11 +3901,11 @@
     "question_number": 73,
     "subject": "Maths",
     "chapter": "Functions",
-    "topic": "Distance from line for one-one onto function",
+    "topic": "One-one onto function extrema",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: distance from line for one-one onto function.",
-    "text": "The function $f:(-\\infty,-1]\\to[a,b)$ defined by $f(x)=e^{x^3-3x+1}$ is one-one and onto. Then the distance of the point $P(2b+4,a+2)$ from the line $x+e^{-3}y=4$ is:",
+    "difficulty_reason": "Rated from the stem: one-one onto function extrema.",
+    "text": "If the function $f:(-\\infty,-1]\\to[a,b)$ defined by $f(x)=e^{x^3-3x+1}$ is one-one and onto, then the distance of the point $P(2b+4,a+2)$ from the line $x+e^{-3}y=4$ is",
     "options": [
       {
         "key": "1",
@@ -3905,31 +3959,31 @@
     "paper_section": null,
     "question_number": 74,
     "subject": "Maths",
-    "chapter": "Continuity",
-    "topic": "Value of m+n for f(x)=e^{-log x}",
+    "chapter": "Application of Derivatives",
+    "topic": "Monotonicity of rational function",
     "question_type": "single",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: value of m+n for f(x)=e^{-log x}.",
-    "text": "Consider the function $f:(0,\\infty)\\to R$ defined by $f(x)=e^{-\\log_e x}$. If $m$ and $n$ be respectively the number of points at which $f$ is not continuous and $f$ is not differentiable, then $m+n$ is",
+    "difficulty_reason": "Rated from the stem: monotonicity of rational function.",
+    "text": "The function $f(x)=\\frac{x}{x^2-6x-16}$, $x\\in\\mathbb R-\\{-2,8\\}$",
     "options": [
       {
         "key": "1",
-        "text": "0",
+        "text": "decreases in $(-2,8)$ and increases in $(-\\infty,-2)\\cup(8,\\infty)$",
         "image": null
       },
       {
         "key": "2",
-        "text": "3",
+        "text": "decreases in $(-\\infty,-2)\\cup(-2,8)\\cup(8,\\infty)$",
         "image": null
       },
       {
         "key": "3",
-        "text": "1",
+        "text": "decreases in $(-\\infty,-2)$ and increases in $(8,\\infty)$",
         "image": null
       },
       {
         "key": "4",
-        "text": "2",
+        "text": "increases in $(-\\infty,-2)\\cup(-2,8)\\cup(8,\\infty)$",
         "image": null
       }
     ],
@@ -3944,7 +3998,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "continuity"
+      "monotonicity"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -3964,31 +4018,31 @@
     "paper_section": null,
     "question_number": 75,
     "subject": "Maths",
-    "chapter": "Definite Integrals",
-    "topic": "Value of 9f + g",
+    "chapter": "Indefinite Integrals",
+    "topic": "Value of AB",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: value of 9f + g.",
-    "text": "Let $f,g:(0,\\infty)\\to R$ be two functions defined by $f(x)=\\int_{-x}^xt-t^2e^{-t^2}dt$ and $g(x)=\\int_0^{x^2}t^{\\frac12}e^{-t^2}dt$. Then the value of $9f\\sqrt{\\log_e9}+g\\sqrt{\\log_e9}$ is equal to",
+    "difficulty_reason": "Rated from the stem: value of ab.",
+    "text": "If $\\int\\frac{\\sin^{\\frac32}x+\\cos^{\\frac32}x}{\\sqrt{\\sin^3x\\cos^3x\\sin(x-\\theta)}}dx=A\\sqrt{\\cos\\theta\\tan x-\\sin\\theta}+B\\sqrt{\\cos\\theta-\\sin\\theta\\cot x}+C$, where $C$ is the integration constant, then $AB$ is equal to",
     "options": [
       {
         "key": "1",
-        "text": "6",
+        "text": "$4\\,\\mathrm{cosec}(2\\theta)$",
         "image": null
       },
       {
         "key": "2",
-        "text": "9",
+        "text": "$4\\sec\\theta$",
         "image": null
       },
       {
         "key": "3",
-        "text": "8",
+        "text": "$2\\sec\\theta$",
         "image": null
       },
       {
         "key": "4",
-        "text": "10",
+        "text": "$8\\,\\mathrm{cosec}(2\\theta)$",
         "image": null
       }
     ],
@@ -4003,7 +4057,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "definite integral"
+      "integration"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -4023,90 +4077,31 @@
     "paper_section": null,
     "question_number": 76,
     "subject": "Maths",
-    "chapter": "Application of Integrals",
-    "topic": "Area enclosed by parabolas",
+    "chapter": "Differential Equations",
+    "topic": "Value of alpha squared",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: area enclosed by parabolas.",
-    "text": "The area of the region enclosed by the parabola $y=4x-x^2$ and $3y=x-4^2$ is equal to",
+    "difficulty_reason": "Rated from the stem: value of alpha squared.",
+    "text": "If $\\sin\\left(\\frac yx\\right)=\\log_e|x|+\\frac\\alpha2$ is the solution of the differential equation $x\\cos\\left(\\frac yx\\right)\\frac{dy}{dx}=y\\cos\\left(\\frac yx\\right)+x$ and $y(1)=\\frac\\pi3$, then $\\alpha^2$ is equal to",
     "options": [
       {
         "key": "1",
-        "text": "$\\frac{32}9$",
+        "text": "3",
         "image": null
       },
       {
         "key": "2",
+        "text": "12",
+        "image": null
+      },
+      {
+        "key": "3",
         "text": "4",
         "image": null
       },
       {
-        "key": "3",
-        "text": "6",
-        "image": null
-      },
-      {
         "key": "4",
-        "text": "$\\frac{14}3$",
-        "image": null
-      }
-    ],
-    "correct_answer": [
-      "3"
-    ],
-    "marks_correct": 4,
-    "marks_incorrect": -1,
-    "marks_unattempted": 0,
-    "solution": null,
-    "solution_source": null,
-    "image": null,
-    "figure_refs": [],
-    "tags": [
-      "area"
-    ],
-    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
-    "verified": false,
-    "verified_against": "text layer and printed answer key; second-pass check pending"
-  },
-  {
-    "id": "main-2024-jan-s1-sh2-31jan-p-77",
-    "exam": "main",
-    "year": 2024,
-    "session": "Jan-S1",
-    "session_number": 1,
-    "session_month": "Jan",
-    "shift": 2,
-    "shift_label": "Shift 2",
-    "date": "2024-01-31",
-    "paper": null,
-    "paper_section": null,
-    "question_number": 77,
-    "subject": "Maths",
-    "chapter": "Differential Equations",
-    "topic": "Temperature of body at t=45",
-    "question_type": "single",
-    "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: temperature of body at t=45.",
-    "text": "The temperature $T(t)$ of a body at time $t=0$ is $160^\\circ F$ and it decreases continuously as per the differential equation $\\frac{dT}{dt}=-KT-80$, where $K$ is positive constant. If $T(15)=120^\\circ F$, then $T(45)$ is equal to",
-    "options": [
-      {
-        "key": "1",
-        "text": "85$^\\circ$F",
-        "image": null
-      },
-      {
-        "key": "2",
-        "text": "95$^\\circ$F",
-        "image": null
-      },
-      {
-        "key": "3",
-        "text": "90$^\\circ$F",
-        "image": null
-      },
-      {
-        "key": "4",
-        "text": "80$^\\circ$F",
+        "text": "9",
         "image": null
       }
     ],
@@ -4128,6 +4123,65 @@
     "verified_against": "text layer and printed answer key; second-pass check pending"
   },
   {
+    "id": "main-2024-jan-s1-sh2-31jan-p-77",
+    "exam": "main",
+    "year": 2024,
+    "session": "Jan-S1",
+    "session_number": 1,
+    "session_month": "Jan",
+    "shift": 2,
+    "shift_label": "Shift 2",
+    "date": "2024-01-31",
+    "paper": null,
+    "paper_section": null,
+    "question_number": 77,
+    "subject": "Maths",
+    "chapter": "Vectors",
+    "topic": "Dot product condition",
+    "question_type": "single",
+    "difficulty": "hard",
+    "difficulty_reason": "Rated from the stem: dot product condition.",
+    "text": "Let $\\vec a=a_1\\hat i+a_2\\hat j+a_3\\hat k$ and $\\vec b=b_1\\hat i+b_2\\hat j+b_3\\hat k$ ... (see PDF) If $\\alpha^2+\\beta^2$ equals",
+    "options": [
+      {
+        "key": "1",
+        "text": "90",
+        "image": null
+      },
+      {
+        "key": "2",
+        "text": "75",
+        "image": null
+      },
+      {
+        "key": "3",
+        "text": "95",
+        "image": null
+      },
+      {
+        "key": "4",
+        "text": "85",
+        "image": null
+      }
+    ],
+    "correct_answer": [
+      "3"
+    ],
+    "marks_correct": 4,
+    "marks_incorrect": -1,
+    "marks_unattempted": 0,
+    "solution": null,
+    "solution_source": null,
+    "image": null,
+    "figure_refs": [],
+    "tags": [
+      "vectors"
+    ],
+    "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
+    "verified": false,
+    "verified_against": "text layer and printed answer key; second-pass check pending"
+  },
+  {
     "id": "main-2024-jan-s1-sh2-31jan-p-78",
     "exam": "main",
     "year": 2024,
@@ -4141,31 +4195,31 @@
     "paper_section": null,
     "question_number": 78,
     "subject": "Maths",
-    "chapter": "3D Geometry",
-    "topic": "Mirror image of point",
+    "chapter": "Vectors",
+    "topic": "Unit vector and angles",
     "question_type": "single",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: mirror image of point.",
-    "text": "Let $\\alpha,\\beta,\\gamma$ be the mirror image of the point $(2,3,5)$ in the line $\\frac{x-1}2=\\frac{y-2}3=\\frac{z-3}4$. Then $2\\alpha+3\\beta+4\\gamma$ is equal to",
+    "difficulty_reason": "Rated from the stem: unit vector and angles.",
+    "text": "Let a unit vector $\\hat u=x\\hat i+y\\hat j+z\\hat k$ make angles $\\frac\\pi2$, $\\frac\\pi3$ and $\\frac{2\\pi}3$ with the vectors $\\frac1{\\sqrt2}\\hat i+\\frac1{\\sqrt2}\\hat k$, $\\frac1{\\sqrt2}\\hat j+\\frac1{\\sqrt2}\\hat k$ and $\\frac1{\\sqrt2}\\hat i+\\frac1{\\sqrt2}\\hat j$ respectively. If $\\vec v=\\frac1{\\sqrt2}\\hat i+\\frac1{\\sqrt2}\\hat j+\\frac1{\\sqrt2}\\hat k$, then $|\\hat u-\\vec v|^2$ is equal to",
     "options": [
       {
         "key": "1",
-        "text": "32",
+        "text": "$\\frac{11}2$",
         "image": null
       },
       {
         "key": "2",
-        "text": "33",
+        "text": "$\\frac52$",
         "image": null
       },
       {
         "key": "3",
-        "text": "31",
+        "text": "9",
         "image": null
       },
       {
         "key": "4",
-        "text": "34",
+        "text": "7",
         "image": null
       }
     ],
@@ -4180,7 +4234,7 @@
     "image": null,
     "figure_refs": [],
     "tags": [
-      "3d geometry"
+      "vectors"
     ],
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
@@ -4201,30 +4255,30 @@
     "question_number": 79,
     "subject": "Maths",
     "chapter": "3D Geometry",
-    "topic": "Shortest distance between lines",
+    "topic": "Angle QPR",
     "question_type": "single",
-    "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: shortest distance between lines.",
-    "text": "The shortest distance between lines $L_1$ and $L_2$, where $L_1:\\frac{x-1}2=\\frac{y+1}{-3}=\\frac{z+4}2$ and $L_2$ is the line passing through the points $A(-4,4,3)$, $B(-1,6,3)$ and perpendicular to the line $\\frac{x-3}{-2}=\\frac y3=\\frac{z-1}1$, is",
+    "difficulty": "medium",
+    "difficulty_reason": "Rated from the stem: angle qpr.",
+    "text": "Let $P(3,2,3)$, $Q(4,6,2)$ and $R(7,3,2)$ be the vertices of $\\Delta PQR$. Then, the angle $\\angle QPR$ is",
     "options": [
       {
         "key": "1",
-        "text": "$\\frac{121}{\\sqrt{221}}$",
+        "text": "$\\frac\\pi6$",
         "image": null
       },
       {
         "key": "2",
-        "text": "$\\frac{24}{\\sqrt{117}}$",
+        "text": "$\\cos^{-1}\\left(\\frac7{18}\\right)$",
         "image": null
       },
       {
         "key": "3",
-        "text": "$\\frac{141}{\\sqrt{221}}$",
+        "text": "$\\cos^{-1}\\left(\\frac1{18}\\right)$",
         "image": null
       },
       {
         "key": "4",
-        "text": "$\\frac{42}{\\sqrt{117}}$",
+        "text": "$\\frac\\pi3$",
         "image": null
       }
     ],
@@ -4260,30 +4314,30 @@
     "question_number": 80,
     "subject": "Maths",
     "chapter": "Probability",
-    "topic": "Two tails and one head",
+    "topic": "Multiple of 4, 6 or 7",
     "question_type": "single",
     "difficulty": "medium",
-    "difficulty_reason": "Rated from the stem: two tails and one head.",
-    "text": "A coin is biased so that a head is twice as likely to occur as a tail. If the coin is tossed 3 times, then the probability of getting two tails and one head is",
+    "difficulty_reason": "Rated from the stem: multiple of 4, 6 or 7.",
+    "text": "An integer is chosen at random from the integers $1,2,3,\\ldots,50$. The probability that the chosen integer is a multiple of at least one of $4$, $6$ and $7$ is",
     "options": [
       {
         "key": "1",
-        "text": "$\\frac29$",
+        "text": "$\\frac8{25}$",
         "image": null
       },
       {
         "key": "2",
-        "text": "$\\frac19$",
+        "text": "$\\frac{21}{50}$",
         "image": null
       },
       {
         "key": "3",
-        "text": "$\\frac2{27}$",
+        "text": "$\\frac9{50}$",
         "image": null
       },
       {
         "key": "4",
-        "text": "$\\frac1{27}$",
+        "text": "$\\frac{14}{25}$",
         "image": null
       }
     ],
@@ -4323,7 +4377,7 @@
     "question_type": "integer",
     "difficulty": "hard",
     "difficulty_reason": "Rated from the stem: value of 12 alpha squared plus beta squared.",
-    "text": "Let $a,b,c$ be the length of three sides of a triangle satisfying the condition $a^2+b^2x^2-2ba+c\\,x+b^2+c^2=0$. If the set of all possible values of $x$ is in the interval $(\\alpha,\\beta)$, then $12\\alpha^2+\\beta^2$ is equal to ______.",
+    "text": "Let $a,b,c$ be the length of three sides of a triangle satisfying the condition $a^2+b^2x^2-2ba+c$ ... (see PDF). If the set of all possible values of $x$ is in the interval $(\\alpha,\\beta)$, then $12\\alpha^2+\\beta^2$ is equal to _______.",
     "options": [],
     "correct_answer": [
       "36"
@@ -4357,11 +4411,11 @@
     "question_number": 82,
     "subject": "Maths",
     "chapter": "Binomial Theorem",
-    "topic": "Value of beta squared plus gamma squared",
+    "topic": "Coefficient sum from product",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: value of beta squared plus gamma squared.",
-    "text": "Let the coefficient of $x^r$ in the expansion of $(x+3^{n-1})+(x+3^{n-2})x+(x+3^{n-3})x^2+\\ldots+(x+2^{n-1})$ be $\\alpha_r$. If $\\sum_{r=0}^n\\alpha_r=\\beta^n-\\gamma^n$, $\\beta,\\gamma\\in\\mathbb N$, then $\\beta^2+\\gamma^2$ equals ______.",
+    "difficulty_reason": "Rated from the stem: coefficient sum from product.",
+    "text": "Let the coefficient of $x^r$ in the expansion of $(x+3^{n-1})+(x+3^{n-2})x+(x+3^{n-3})x^2+\\ldots+(x+2^{n-1})$ be $\\alpha_r$. If $\\sum_{r=0}^n\\alpha_r=\\beta^n-\\gamma^n$, $\\beta,\\gamma\\in\\mathbb N$, then the value of $\\beta^2+\\gamma^2$ equals _______.",
     "options": [],
     "correct_answer": [
       "25"
@@ -4394,11 +4448,11 @@
     "paper_section": null,
     "question_number": 83,
     "subject": "Maths",
-    "chapter": "Coordinate Geometry",
-    "topic": "Sum of coordinates of parallelogram",
+    "chapter": "Parallelogram",
+    "topic": "Sum of coordinates of parallelogram vertices",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: sum of coordinates of parallelogram.",
+    "difficulty_reason": "Rated from the stem: sum of coordinates of parallelogram vertices.",
     "text": "Let $A(-2,-1)$, $B(1,0)$, $C(\\alpha,\\beta)$ and $D(\\gamma,\\delta)$ be the vertices of a parallelogram $ABCD$. If the point $C$ lies on $2x-y=5$ and the point $D$ lies on $3x-2y=6$, then the value of $\\alpha+\\beta+\\gamma+\\delta$ is equal to ______.",
     "options": [],
     "correct_answer": [
@@ -4471,10 +4525,10 @@
     "question_number": 85,
     "subject": "Maths",
     "chapter": "Relations",
-    "topic": "Minimum elements of symmetric relation",
+    "topic": "Minimum number of elements in symmetric relation",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: minimum elements of symmetric relation.",
+    "difficulty_reason": "Rated from the stem: minimum number of elements in symmetric relation.",
     "text": "Let $A=\\{1,2,3,\\ldots,100\\}$. Let $R$ be a relation on $A$ defined by $(x,y)\\in R$ if and only if $2x=3y$. Let $R_1$ be a symmetric relation on $A$ such that $R\\subset R_1$ and the number of elements in $R_1$ is $n$. Then the minimum value of $n$ is ______.",
     "options": [],
     "correct_answer": [
@@ -4509,10 +4563,10 @@
     "question_number": 86,
     "subject": "Maths",
     "chapter": "Matrices and Determinants",
-    "topic": "Remainder of n divided by 9",
+    "topic": "Remainder of determinant power",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: remainder of n divided by 9.",
+    "difficulty_reason": "Rated from the stem: remainder of determinant power.",
     "text": "Let $A$ be a $3\\times3$ matrix and $\\det A=2$. If $n=\\det(\\operatorname{adj}(\\operatorname{adj}\\cdots\\operatorname{adj}A))$ with $2024$ times, then the remainder when $n$ is divided by $9$ is equal to ______.",
     "options": [],
     "correct_answer": [
@@ -4548,11 +4602,11 @@
     "question_number": 87,
     "subject": "Maths",
     "chapter": "Definite Integrals",
-    "topic": "Value of 120/pi^3 integral",
+    "topic": "Integral 120/pi^3",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: value of 120/pi^3 integral.",
-    "text": "$\\frac{120}{\\pi^3}\\int_0^{\\pi}\\frac{x^2\\sin x\\cos x}{\\sin^4x+\\cos^4x}dx$ is equal to ______.",
+    "difficulty_reason": "Rated from the stem: integral 120/pi^3.",
+    "text": "$\\frac{120}{\\pi^3}\\int_0^\\pi\\frac{x^2\\sin x\\cos x}{\\sin^4x+\\cos^4x}dx$ is equal to ______.",
     "options": [],
     "correct_answer": [
       "15"
@@ -4590,7 +4644,7 @@
     "question_type": "integer",
     "difficulty": "hard",
     "difficulty_reason": "Rated from the stem: value of e^(8 alpha).",
-    "text": "Let $y=yx$ be the solution of the differential equation $\\sec^2x\\,dx+e^{2y}\\tan^2x+\\tan x\\,dy=0$, $0<x<\\frac\\pi2$, $y\\left(\\frac\\pi4\\right)=0$. If $y\\left(\\frac\\pi6\\right)=\\alpha$, then $e^{8\\alpha}$ is equal to ______.",
+    "text": "Let $y=y(x)$ be the solution of the differential equation $\\sec^2x\\,dx+e^{2y}\\tan^2x+\\tan x\\,dy=0$, $0<x<\\frac\\pi2$, $y\\left(\\frac\\pi4\\right)=0$. If $y\\left(\\frac\\pi6\\right)=\\alpha$, then $e^{8\\alpha}$ is equal to ______.",
     "options": [],
     "correct_answer": [
       "9"
@@ -4624,11 +4678,11 @@
     "question_number": 89,
     "subject": "Maths",
     "chapter": "Vectors",
-    "topic": "Value of c squared",
+    "topic": "Square of c",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: value of c squared.",
-    "text": "Let $\\vec a=3\\hat i+2\\hat j+\\hat k$, $\\vec b=2\\hat i-\\hat j+3\\hat k$ and $\\vec c$ be a vector such that $\\vec a+\\vec b\\times\\vec c=2\\vec a\\times\\vec b+24\\hat j-6\\hat k$ and $\\vec a-\\vec b+\\hat i\\cdot\\vec c=-3$. Then $\\vec c^{\\,2}$ is equal to ______.",
+    "difficulty_reason": "Rated from the stem: square of c.",
+    "text": "Let $\\vec a=3\\hat i+2\\hat j+\\hat k$, $\\vec b=2\\hat i-\\hat j+3\\hat k$ and $\\vec c$ be a vector such that $\\vec a+\\vec b\\times\\vec c=2\\vec a\\times\\vec b+24\\hat j-6\\hat k$ and $\\vec a-\\vec b+\\hat i\\cdot\\vec c=-3$. Then $|\\vec c|^2$ is equal to ______.",
     "options": [],
     "correct_answer": [
       "38"
@@ -4662,11 +4716,11 @@
     "question_number": 90,
     "subject": "Maths",
     "chapter": "3D Geometry",
-    "topic": "Distance between P and Q",
+    "topic": "Distance between points P and Q",
     "question_type": "integer",
     "difficulty": "hard",
-    "difficulty_reason": "Rated from the stem: distance between p and q.",
-    "text": "A line passes through $A(4,-6,-2)$ and $B(16,-2,4)$. The point $P(a,b,c)$ where $a,b,c$ are non-negative integers, on the line $AB$ lies at a distance of $21$ units from the point $A$. The distance between the points $P(a,b,c)$ and $Q(4,-12,3)$ is equal to ______.",
+    "difficulty_reason": "Rated from the stem: distance between points p and q.",
+    "text": "A line passes through $A(4,-6,-2)$ and $B(16,-2,4)$. The point $P(a,b,c)$ where $a,b,c$ are non-negative integers, on the line $AB$ lies at a distance of $21$ units, from the point $A$. The distance between the points $P(a,b,c)$ and $Q(4,-12,3)$ is equal to ______.",
     "options": [],
     "correct_answer": [
       "22"

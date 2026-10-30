@@ -1100,22 +1100,22 @@
       {
         "key": "1",
         "text": "[circuit diagram — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-1.webp"
       },
       {
         "key": "2",
         "text": "[circuit diagram — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-2.webp"
       },
       {
         "key": "3",
         "text": "[circuit diagram — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-3.webp"
       },
       {
         "key": "4",
         "text": "[circuit diagram — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1127,7 +1127,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-19-opt-4.webp"
+    ],
     "tags": [
       "diode",
       "reverse bias"
@@ -1419,8 +1424,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-26.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-26.webp"
+    ],
     "tags": [
       "capacitor",
       "circuit"
@@ -1458,8 +1465,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-27.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-27.webp"
+    ],
     "tags": [
       "magnetic field",
       "current"
@@ -1536,8 +1545,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-29.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-29.webp"
+    ],
     "tags": [
       "refraction",
       "apparent depth"
@@ -1789,22 +1800,22 @@
       {
         "key": "1",
         "text": "Aniline (NH$_2$ on benzene)",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-1.webp"
       },
       {
         "key": "2",
         "text": "Diphenylamine",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-2.webp"
       },
       {
         "key": "3",
         "text": "Pyrrole",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-3.webp"
       },
       {
         "key": "4",
         "text": "Pyrrolidine",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -1816,7 +1827,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-34-opt-4.webp"
+    ],
     "tags": [
       "basicity",
       "amines"
@@ -2055,8 +2071,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-38.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-38.webp"
+    ],
     "tags": [
       "classification",
       "alicyclic"
@@ -2089,22 +2107,22 @@
       {
         "key": "1",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-1.webp"
       },
       {
         "key": "2",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-2.webp"
       },
       {
         "key": "3",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-3.webp"
       },
       {
         "key": "4",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2116,7 +2134,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-39-opt-4.webp"
+    ],
     "tags": [
       "acidity",
       "carbonyl"
@@ -2175,8 +2198,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-40.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-40.webp"
+    ],
     "tags": [
       "acidity",
       "phenols"
@@ -2209,22 +2234,22 @@
       {
         "key": "1",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-1.webp"
       },
       {
         "key": "2",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-2.webp"
       },
       {
         "key": "3",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-3.webp"
       },
       {
         "key": "4",
         "text": "[structure — see PDF]",
-        "image": null
+        "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-4.webp"
       }
     ],
     "correct_answer": [
@@ -2236,7 +2261,12 @@
     "solution": null,
     "solution_source": null,
     "image": null,
-    "figure_refs": [],
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-1.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-2.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-3.webp",
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-41-opt-4.webp"
+    ],
     "tags": [
       "enol",
       "tautomerism"
@@ -3008,8 +3038,10 @@
     "marks_unattempted": 0,
     "solution": null,
     "solution_source": null,
-    "image": null,
-    "figure_refs": [],
+    "image": "assets/q/main-2024-jan-s1-sh1-27jan-p-56.webp",
+    "figure_refs": [
+      "assets/q/main-2024-jan-s1-sh1-27jan-p-56.webp"
+    ],
     "tags": [
       "aromaticity",
       "huckel"
