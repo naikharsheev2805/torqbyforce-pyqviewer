@@ -297,7 +297,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 75
+    "image_display_width_px": 112
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-06",
@@ -714,7 +714,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 84
+    "image_display_width_px": 126
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-13",
@@ -1156,25 +1156,25 @@
         "key": "1",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-1.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 43
       },
       {
         "key": "2",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-2.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 43
       },
       {
         "key": "3",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-3.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 43
       },
       {
         "key": "4",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-20-opt-4.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 43
       }
     ],
     "correct_answer": [
@@ -1199,7 +1199,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 85
+    "image_display_width_px": 128
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-21",
@@ -1392,7 +1392,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 70
+    "image_display_width_px": 92
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-26",
@@ -1510,7 +1510,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 70
+    "image_display_width_px": 67
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-29",
@@ -1649,7 +1649,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 91
+    "image_display_width_px": 135
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-32",
@@ -1829,7 +1829,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 70
+    "image_display_width_px": 56
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-35",
@@ -1891,7 +1891,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 139
+    "image_display_width_px": 209
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-36",
@@ -1954,7 +1954,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 99
+    "image_display_width_px": 148
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-37",
@@ -1981,25 +1981,25 @@
         "key": "1",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-1.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 35
       },
       {
         "key": "2",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-2.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 55
       },
       {
         "key": "3",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-3.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 48
       },
       {
         "key": "4",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-37-opt-4.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 37
       }
     ],
     "correct_answer": [
@@ -2498,7 +2498,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 147
+    "image_display_width_px": 220
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-46",
@@ -2525,19 +2525,19 @@
         "key": "1",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-1.webp",
-        "image_display_width_px": 106
+        "image_display_width_px": 159
       },
       {
         "key": "2",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-2.webp",
-        "image_display_width_px": 94
+        "image_display_width_px": 141
       },
       {
         "key": "3",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-46-opt-3.webp",
-        "image_display_width_px": 91
+        "image_display_width_px": 135
       },
       {
         "key": "4",
@@ -2591,25 +2591,25 @@
         "key": "1",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-1.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 49
       },
       {
         "key": "2",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-2.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 49
       },
       {
         "key": "3",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-3.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 51
       },
       {
         "key": "4",
         "text": "",
         "image": "assets/q/main-2024-jan-s1-sh2-29jan-p-47-opt-4.webp",
-        "image_display_width_px": 70
+        "image_display_width_px": 49
       }
     ],
     "correct_answer": [
@@ -2634,7 +2634,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key. Figure or structure in stem/options not extracted; image field left null.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 95
+    "image_display_width_px": 142
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-48",
@@ -2815,7 +2815,7 @@
     "source_notes": "Text and answer key taken from the MathonGo PDF; answer taken as printed in the key.",
     "verified": false,
     "verified_against": "text layer and printed answer key; second-pass check pending",
-    "image_display_width_px": 90
+    "image_display_width_px": 135
   },
   {
     "id": "main-2024-jan-s1-sh2-29jan-p-51",
